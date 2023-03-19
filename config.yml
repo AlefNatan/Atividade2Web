@@ -1,0 +1,13 @@
+# config.yml
+
+defaults:
+  - scope:
+      path: ""
+      type: "html"
+    values:
+      cache-control: "no-cache, no-store, must-revalidate"
+  - scope:
+      path: ""
+      type: ["css", "js", "png", "jpg", "jpeg", "gif", "webp", "svg", "ico"]
+    values:
+      cache-control: "public, max-age=604800, immutable"
