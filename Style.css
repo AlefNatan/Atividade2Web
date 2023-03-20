@@ -141,6 +141,9 @@ img{
   nav a:first-child {
 	margin-left: 0vh;
   }
+@media (min-width: 277px) and (max-width: 530px) {
+
+}
   
   
   
