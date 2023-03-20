@@ -273,6 +273,9 @@ margin-left: 25%;
     margin-bottom: 0px;
     margin-top: 18vh;
   }
+.container p{
+	font-size: 30px;
+}
   nav{
     margin: 0px;
     font-family: 'Raleway';
