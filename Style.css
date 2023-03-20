@@ -278,7 +278,7 @@ img{
     		margin-block-end: 14px;
     		margin-inline-start: 0px;
     		margin-inline-end: 0px;
-    		line-height: 0;
+    		line-height: 1;
     		font-size: 13px;
 	}
   	nav{
