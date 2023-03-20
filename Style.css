@@ -274,7 +274,13 @@ margin-left: 25%;
     margin-top: 18vh;
   }
 .container p{
-	font-size: 30px;
+	display: block;
+    	margin-block-start: 15px;
+    	margin-block-end: 14px;
+    	margin-inline-start: 0px;
+    	margin-inline-end: 0px;
+    	line-height: 0;
+    	font-size: 8px;
 }
   nav{
     margin: 0px;
