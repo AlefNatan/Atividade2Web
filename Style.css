@@ -149,13 +149,13 @@ body {
   	background-color: #ffffff;
 }
 header {
-  	background-color: #ffffff;
-	color:#252628;
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	padding: 0vh 28vh;
-    height: 11vh;
+    background-color: #ffffff;
+    color: #252628;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 0px;
+    height: 44px;
 
 }
 header h1{
