@@ -66,8 +66,8 @@ img{
 }
 
 .section{
-	margin-left: 13%;
-	margin-top: 9%;
+	margin-left: 20%;
+	margin-top: 15%;
 }
 .meu-botao-la-ele {
 	background-color: #575757;
@@ -165,10 +165,10 @@ header h1{
     	font-size: 26px;
 }
 h1 {
-    margin: 0;
-    font-family: 'Raleway';
-    line-height: 1.0;
-	font-size: 5vh;
+    	margin: 0;
+    	font-family: 'Raleway';
+    	line-height: 1.0;
+	font-size: 4vh;
 }
 .ola{
 	font-size: 3vh;
@@ -183,7 +183,7 @@ p {
     	margin-inline-start: 0px;
     	margin-inline-end: 0px;
     	line-height: 0;
-    	font-size: 16px;
+    	font-size: 2vh;
 }
 nav a {
 	color:#252628;
@@ -213,14 +213,14 @@ img{
     	margin-top: 15%;
 }
 .meu-botao-la-ele {
-	background-color: #575757;
+    background-color: #575757;
     border: none;
     color: white;
     padding: 1vh 5vh;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 3vh;
+    font-size: 15px;
     margin: 1vh 0vh;
     cursor: pointer;
     border-radius: 1vh;
