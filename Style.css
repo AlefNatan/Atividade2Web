@@ -272,14 +272,14 @@ img{
 	    	margin-bottom: 0px;
     		margin-top: 14vh;
   	}
-	div p{
+	.container p{
 		display: block;
     		margin-block-start: 15px;
     		margin-block-end: 14px;
     		margin-inline-start: 0px;
     		margin-inline-end: 0px;
     		line-height: 0;
-    		font-size: 8px;
+    		font-size: 13px;
 	}
   	nav{
     		margin: 0px;
