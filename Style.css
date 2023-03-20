@@ -277,11 +277,11 @@ img{
     margin-bottom: 0px;
   }
   nav a {
-    color: #575757;
-    margin-left: 4px;
-    margin-right: 4px;
-    text-decoration: none;
-    font-size: 10px;
+	color: #575757;
+    	margin-left: 4px;
+    	margin-right: 7px;
+    	text-decoration: none;
+    	font-size: 7px;
   }
   
   nav a:first-child {
