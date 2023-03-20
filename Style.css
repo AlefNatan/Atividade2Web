@@ -142,7 +142,16 @@ img{
 	margin-left: 0vh;
   }
 @media (min-width: 277px) and (max-width: 530px) {
+header {
+  	background-color: #ffffff;
+	color:#252628;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0vh 28vh;
+    height: 11vh;
 
+}
  header h1{
 	margin: 0vh;
     font-family: 'Raleway';
