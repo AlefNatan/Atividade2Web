@@ -270,11 +270,11 @@ img{
     margin-top: 6vh;
   }
   nav{
-	margin: 0vh;
+    margin: 0px;
     font-family: 'Raleway';
-    line-height: 0vh;
-	font-size: 7vh;
-	margin-bottom: 2vh;
+    line-height: 0px;
+    font-size: 0px;
+    margin-bottom: 0px;
   }
   nav a {
     color: #575757;
