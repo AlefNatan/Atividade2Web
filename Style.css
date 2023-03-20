@@ -260,7 +260,7 @@ margin-left: 25%;
     	height: -64vh;
     	bottom: 0vh;
     	position: initial;
-    	margin-top: 15vh;
+    	margin-top: 0vh;
     	height: 30px;
   }
   
@@ -271,7 +271,7 @@ margin-left: 25%;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 0px;
-    margin-top: 18vh;
+    margin-top: 14vh;
   }
 .container p{
 	display: block;
