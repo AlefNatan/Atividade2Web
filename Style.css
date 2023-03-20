@@ -143,6 +143,12 @@ img{
   }
 @media (min-width: 277px) and (max-width: 530px) {
 
+ header h1{
+	margin: 0vh;
+    font-family: 'Raleway';
+    line-height: 1.5;
+	font-size: 7vh;
+}	
   nav{
 	margin: 0vh;
     font-family: 'Raleway';
