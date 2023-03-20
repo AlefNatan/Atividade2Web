@@ -253,12 +253,14 @@ img{
 	transform: scale(1.5);
   }
   footer {
-    background-color: #fff;
-    color: #575757;
-    width: 100%;
-    height: 6vh;
-    bottom: 0vh;
-    position: initial;
+	background-color: #fff;
+    	color: #575757;
+    	width: 100%;
+    	height: -64vh;
+    	bottom: 0vh;
+    	position: initial;
+    	margin-top: 17vh;
+    	height: 30px;
   }
   
   .container {
